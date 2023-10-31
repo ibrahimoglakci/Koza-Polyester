@@ -1,12 +1,13 @@
-
-![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/512px-JavaScript-logo.png)
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png)
-![PHP](https://www.php.net/images/logos/php-logo.svg)
-![Ajax](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ajax-loader.gif/512px-Ajax-loader.gif)
-![jQuery](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/JQuery_logo.svg/512px-JQuery_logo.svg.png)
-![MySQL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mysql.svg/1024px-Mysql.svg.png)
+<div align="center">
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/512px-JavaScript-logo.png" alt="JavaScript" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50" />
+    <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ajax-loader.gif/512px-Ajax-loader.gif" alt="Ajax" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/JQuery_logo.svg/512px-JQuery_logo.svg.png" alt="jQuery" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mysql.svg/1024px-Mysql.svg.png" alt="MySQL" width="50" height="50" />
+</div>
 
 # Koza Polyester Corporate Website
 
