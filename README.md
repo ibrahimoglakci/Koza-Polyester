@@ -5,8 +5,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" height="50" />
     <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width="50" height="50" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ajax-loader.gif/512px-Ajax-loader.gif" alt="Ajax" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/JQuery_logo.svg/512px-JQuery_logo.svg.png" alt="jQuery" width="50" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mysql.svg/1024px-Mysql.svg.png" alt="MySQL" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png?20200715135602" alt="jQuery" width="50" height="50" />
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="50" height="50" />
 </div>
 
 # Koza Polyester Corporate Website
